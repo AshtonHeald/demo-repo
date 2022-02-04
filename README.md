@@ -1,7 +1,7 @@
-# Demo
+# Learning
 
-Some decription!
+Learning Markdown and version control w/ Git & Github.
 
 ## Subheader
 
-Learning Git & Github.
+> Lorem Ipsum
