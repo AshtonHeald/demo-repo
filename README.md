@@ -1,7 +1,7 @@
-# Learning
+# Playground
 
-Learning Markdown and version control w/ Git & Github.
+This repo acts as a place to test and learn.
 
-## Subheader
+## Learning
 
-> Lorem Ipsum
+> Markdown & Version Control w/ Git & Github
